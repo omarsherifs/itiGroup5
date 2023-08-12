@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_4/screens/page1.dart';
-import 'package:flutter_application_4/screens/page2.dart';
-import 'package:flutter_application_4/screens/page3.dart';
+import 'package:flutter_application_4/views/screens/page1.dart';
+import 'package:flutter_application_4/views/screens/page2.dart';
+import 'package:flutter_application_4/views/screens/page3.dart';
 
 class HomeScreen extends StatefulWidget {
   String email;

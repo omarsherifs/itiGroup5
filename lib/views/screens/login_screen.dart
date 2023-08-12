@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_application_4/screens/home_screen.dart';
-import 'package:flutter_application_4/widgets/custom_button.dart';
+import 'package:flutter_application_4/views/screens/home_screen.dart';
+import 'package:flutter_application_4/views/widgets/custom_button.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class LoginScreen extends StatefulWidget {
